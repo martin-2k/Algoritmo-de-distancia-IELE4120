@@ -1,0 +1,85 @@
+SE RUBIALES BAHIA TRAFO           Date: 09/21/22    Time: 07:26:23.013
+=2T1-4 +R24 -F004 SOBRCORRTE
+
+FID=SEL-351-5-R515-V0-Z105104-D20130620       CID=2522
+
+#     Date      Time           Element            State
+
+
+75    09/17/22  22:17:56.476   LV21               Deasserted
+74    09/21/22  01:30:15.077   SV15               Asserted
+73    09/21/22  01:30:15.077   LV21               Asserted
+72    09/21/22  01:30:15.169   SV15               Deasserted
+71    09/21/22  01:30:15.169   LV21               Deasserted
+70    09/21/22  06:43:51.375   LV3                Deasserted
+69    09/21/22  06:43:54.136   LV3                Asserted
+68    09/21/22  06:48:48.727   SV11               Asserted
+67    09/21/22  06:48:48.727   LV17               Asserted
+66    09/21/22  06:48:48.731   SV9                Asserted
+65    09/21/22  06:48:48.731   LV15               Asserted
+64    09/21/22  06:48:48.739   SV15               Asserted
+63    09/21/22  06:48:48.739   LV21               Asserted
+62    09/21/22  06:48:48.831   SV10               Asserted
+61    09/21/22  06:48:48.831   LV16               Asserted
+60    09/21/22  06:48:48.835   SV8                Asserted
+59    09/21/22  06:48:48.835   SV6                Asserted
+58    09/21/22  06:48:48.835   SV5                Asserted
+57    09/21/22  06:48:48.835   SV4                Asserted
+56    09/21/22  06:48:48.835   SV3                Asserted
+55    09/21/22  06:48:48.835   SV2                Asserted
+54    09/21/22  06:48:48.835   SV1                Asserted
+53    09/21/22  06:48:48.835   LV14               Asserted
+52    09/21/22  06:48:48.835   LV12               Asserted
+51    09/21/22  06:48:48.835   LV11               Asserted
+50    09/21/22  06:48:48.835   LV10               Asserted
+49    09/21/22  06:48:48.835   LV9                Asserted
+48    09/21/22  06:48:48.835   LV8                Asserted
+47    09/21/22  06:48:48.835   LV7                Asserted
+46    09/21/22  06:48:48.848   IN207              Deasserted
+45    09/21/22  06:48:48.848   LV6                Deasserted
+44    09/21/22  06:48:48.856   IN102              Deasserted
+43    09/21/22  06:48:48.856   SV10               Deasserted
+42    09/21/22  06:48:48.856   SV9                Deasserted
+41    09/21/22  06:48:48.856   SV15               Deasserted
+40    09/21/22  06:48:48.856   LV21               Deasserted
+39    09/21/22  06:48:48.856   LV16               Deasserted
+38    09/21/22  06:48:48.856   LV15               Deasserted
+37    09/21/22  06:48:48.877   IN101              Asserted
+36    09/21/22  06:48:48.877   SV11               Deasserted
+35    09/21/22  06:48:48.877   LV17               Deasserted
+34    09/21/22  06:48:48.906   LV5                Asserted
+33    09/21/22  06:48:48.910   SV7                Asserted
+32    09/21/22  06:48:48.910   LV13               Asserted
+31    09/21/22  06:48:48.985   SV8                Deasserted
+30    09/21/22  06:48:48.985   SV6                Deasserted
+29    09/21/22  06:48:48.985   SV5                Deasserted
+28    09/21/22  06:48:48.985   SV4                Deasserted
+27    09/21/22  06:48:48.985   SV3                Deasserted
+26    09/21/22  06:48:48.985   SV2                Deasserted
+25    09/21/22  06:48:48.985   SV1                Deasserted
+24    09/21/22  06:48:48.985   LV14               Deasserted
+23    09/21/22  06:48:48.985   LV12               Deasserted
+22    09/21/22  06:48:48.985   LV11               Deasserted
+21    09/21/22  06:48:48.985   LV10               Deasserted
+20    09/21/22  06:48:48.985   LV9                Deasserted
+19    09/21/22  06:48:48.985   LV8                Deasserted
+18    09/21/22  06:48:48.985   LV7                Deasserted
+17    09/21/22  07:00:05.625   IN207              Asserted
+16    09/21/22  07:00:05.625   LV6                Asserted
+15    09/21/22  07:00:47.094   IN101              Deasserted
+14    09/21/22  07:00:47.094   IN207              Deasserted
+13    09/21/22  07:00:47.094   LV6                Deasserted
+12    09/21/22  07:00:47.106   LV5                Deasserted
+11    09/21/22  07:00:47.110   SV7                Deasserted
+10    09/21/22  07:00:47.110   LV13               Deasserted
+9     09/21/22  07:00:47.115   SV11               Asserted
+8     09/21/22  07:00:47.115   LV17               Asserted
+7     09/21/22  07:00:47.123   IN102              Asserted
+6     09/21/22  07:00:47.123   IN207              Asserted
+5     09/21/22  07:00:47.123   LV6                Asserted
+4     09/21/22  07:00:47.148   SV11               Deasserted
+3     09/21/22  07:00:47.148   LV17               Deasserted
+2     09/21/22  07:00:48.301   LV3                Deasserted
+1     09/21/22  07:00:51.065   LV3                Asserted
+
+=>
